@@ -51,8 +51,8 @@ Open it with any browser (Chrome, Edge, Firefox)
 
 ✨ The text appears in the center of the screen
 ✨ Each character changes color continuously in a rainbow pattern
+<img width="627" height="283" alt="image" src="https://github.com/user-attachments/assets/05ce98c6-c7fe-4d07-8442-42382b7a58e2" />
 
-(You can add a screenshot here later)
 
 🧠 Learning Outcome
 
