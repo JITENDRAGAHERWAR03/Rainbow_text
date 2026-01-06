@@ -32,3 +32,13 @@ This project is beginner-friendly and perfect for learning **CSS animations** an
 ├── rainbow.css # Styling and animation
 ├── rainbow.js # Text split & animation logic
 └── README.md # Project documentation
+
+
+---
+
+## ▶️ How to Run the Project
+
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
