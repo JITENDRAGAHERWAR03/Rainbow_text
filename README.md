@@ -26,4 +26,9 @@ This project is beginner-friendly and perfect for learning **CSS animations** an
 ---
 
 ## 📂 Project Structure
-
+📁 Rainbow-Text-Animation
+│
+├── rainbow.html # Main HTML file
+├── rainbow.css # Styling and animation
+├── rainbow.js # Text split & animation logic
+└── README.md # Project documentation
